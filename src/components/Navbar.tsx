@@ -56,7 +56,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenContact }) => {
             </div>
             <div className="flex flex-col">
               <span className="font-extrabold text-lg sm:text-xl tracking-tight text-white group-hover:text-emerald-400 transition-colors">
-                GrowthCraft<span className="text-emerald-400">.</span>
+                {siteConfig.agencyName}<span className="text-emerald-400">.</span>
               </span>
               <span className="text-[10px] uppercase tracking-wider text-slate-400 font-medium">
                 Digital Presence Agency

@@ -8,4 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  // Base path for GitHub Pages deployment (https://projects771.github.io/localift/)
+  base: process.env.NODE_ENV === 'production' ? '/localift/' : '/',
 })

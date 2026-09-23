@@ -71,7 +71,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenContact }) => {
                 <Sparkles className="w-5 h-5" />
               </div>
               <span className="font-extrabold text-xl text-white">
-                GrowthCraft<span className="text-emerald-400">.</span>
+                {siteConfig.agencyName}<span className="text-emerald-400">.</span>
               </span>
             </div>
             <p className="text-xs text-slate-400 leading-relaxed">
@@ -121,7 +121,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenContact }) => {
 
         {/* Bottom Copyright Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-          <p>© 2026 GrowthCraft Agency. All rights reserved.</p>
+          <p>© 2026 {siteConfig.agencyName}. All rights reserved.</p>
           <p className="flex items-center gap-1">
             Made for local entrepreneurs with <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
           </p>

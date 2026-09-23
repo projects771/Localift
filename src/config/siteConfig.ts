@@ -1,16 +1,18 @@
 import type { Founder, ServiceItem, BusinessDemo, PortfolioProject, ReelItem, FAQItem } from '../types';
 
 export const siteConfig = {
-  agencyName: "GrowthCraft Agency",
+  agencyName: "Localift",
   agencyTagline: "Good Businesses Deserve to Be Seen.",
   agencySecondaryMessage: "You build the business. We build its digital presence.",
   heroSubtitle: "We help local businesses build their digital presence through modern websites, social media content and creative digital campaigns.",
+  googleFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc_EXAMPLE_LOCALIFT/viewform", // Configurable Google Form URL
   
   contact: {
     whatsappNumber: "+919876543210", // Configurable placeholder
-    whatsappMessage: "Hello! I am interested in building a digital presence for my business.",
+    whatsappMessage: "Hello Localift! I am interested in building a digital presence for my business.",
     agencyLocation: "India",
-    workingHours: "Mon - Sat: 9:00 AM - 8:00 PM IST"
+    workingHours: "Mon - Sat: 9:00 AM - 8:00 PM IST",
+    googleFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc_EXAMPLE_LOCALIFT/viewform" // Configurable Google Form URL
   },
 
   founders: [
