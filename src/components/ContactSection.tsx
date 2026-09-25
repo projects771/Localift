@@ -99,12 +99,12 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ prefilledService
                   NP
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold text-white">Nawal Kishore S. Pai</h3>
+                  <h3 className="text-lg font-bold text-white">Nawal Kishore S Pai</h3>
                   <p className="text-xs text-slate-400">Co-Founder & Developer</p>
                 </div>
               </div>
               <p className="text-xs text-slate-300 font-mono bg-slate-950 p-3 rounded-xl border border-slate-800 mb-4">
-                Navel Kishore Satishbhai@gmail.com
+                nawalkishoresatishpai@gmail.com
               </p>
             </div>
             <div className="grid grid-cols-2 gap-2">
