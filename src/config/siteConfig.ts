@@ -22,7 +22,7 @@ export const siteConfig = {
       role: "Co-Founder",
       title: "Developer / Digital Solutions",
       bio: "Passionate developer focused on crafting performant, visually stunning web experiences that help local entrepreneurs and small businesses get noticed online.",
-      email: "Navel Kishore Satishbhai@gmail.com",
+      email: "nawalkishoresatishpai@gmail.com",
       phonePlaceholder: "+91 98765 43210",
       avatarUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
       githubUrl: "https://github.com/",
