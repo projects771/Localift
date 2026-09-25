@@ -101,7 +101,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenContact }) => {
             <h4 className="text-xs font-bold text-slate-200 uppercase tracking-widest">Founders & Direct Contact</h4>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs text-slate-300">
               <div className="p-3 bg-slate-900 rounded-xl border border-slate-800">
-                <span className="font-bold text-white block">Nawal Kishore S. Pai</span>
+                <span className="font-bold text-white block">Nawal Kishore S Pai</span>
                 <span className="text-[11px] text-slate-400 block mb-1">Co-Founder & Developer</span>
                 <a href={`mailto:${siteConfig.founders[0].email}`} className="text-emerald-400 hover:underline font-mono truncate block">
                   {siteConfig.founders[0].email}
