@@ -11,14 +11,14 @@ export const siteConfig = {
     whatsappNumber: "+919876543210", // Configurable placeholder
     whatsappMessage: "Hello Localift! I am interested in building a digital presence for my business.",
     agencyLocation: "India",
-    workingHours: "Mon - Sat: 9:00 AM - 8:00 PM IST",
+    workingHours: "Mon - Sun: 9:00 AM - 10:00 PM IST",
     googleFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc_EXAMPLE_LOCALIFT/viewform" // Configurable Google Form URL
   },
 
   founders: [
     {
       id: "nawal",
-      name: "Nawal Kishore S. Pai",
+      name: "Nawal Kishore S Pai",
       role: "Co-Founder",
       title: "Developer / Digital Solutions",
       bio: "Passionate developer focused on crafting performant, visually stunning web experiences that help local entrepreneurs and small businesses get noticed online.",
