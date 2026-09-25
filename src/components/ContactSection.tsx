@@ -136,12 +136,12 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ prefilledService
                 </div>
               </div>
               <p className="text-xs text-slate-300 font-mono bg-slate-950 p-3 rounded-xl border border-slate-800 mb-4">
-                gokulb776@gmail.com
+                gokulb7776@gmail.com
               </p>
             </div>
             <div className="grid grid-cols-2 gap-2">
               <a
-                href={`mailto:gokulb776@gmail.com?subject=${encodeURIComponent("Inquiry for Gokul B")}`}
+                href={`mailto:gokulb7776@gmail.com?subject=${encodeURIComponent("Inquiry for Gokul B")}`}
                 className="py-2.5 text-xs font-bold text-white bg-cyan-600 hover:bg-cyan-500 rounded-xl transition-all text-center flex items-center justify-center gap-1.5"
               >
                 <Mail className="w-3.5 h-3.5" /> Email Gokul
