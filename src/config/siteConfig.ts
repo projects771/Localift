@@ -8,7 +8,7 @@ export const siteConfig = {
   googleFormUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc_EXAMPLE_LOCALIFT/viewform", // Configurable Google Form URL
   
   contact: {
-    whatsappNumber: "+919876543210", // Configurable placeholder
+    whatsappNumber: "+919074735868", // Configurable placeholder
     whatsappMessage: "Hello Localift! I am interested in building a digital presence for my business.",
     agencyLocation: "India",
     workingHours: "Mon - Sun: 9:00 AM - 10:00 PM IST",
