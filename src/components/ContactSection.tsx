@@ -115,7 +115,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ prefilledService
                 <Mail className="w-3.5 h-3.5" /> Email Nawal
               </a>
               <a
-                href="tel:+919876543210"
+                href="tel:+919074735868"
                 className="py-2.5 text-xs font-semibold text-slate-200 bg-slate-800 hover:bg-slate-700 rounded-xl transition-all text-center flex items-center justify-center gap-1.5"
               >
                 <Phone className="w-3.5 h-3.5 text-cyan-400" /> Call Nawal
@@ -147,7 +147,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ prefilledService
                 <Mail className="w-3.5 h-3.5" /> Email Gokul
               </a>
               <a
-                href="tel:+919876543211"
+                href="tel:+919188107037"
                 className="py-2.5 text-xs font-semibold text-slate-200 bg-slate-800 hover:bg-slate-700 rounded-xl transition-all text-center flex items-center justify-center gap-1.5"
               >
                 <Phone className="w-3.5 h-3.5 text-emerald-400" /> Call Gokul
